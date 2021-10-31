@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav1808&theme=great-gatsby)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav1808&theme=default)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishav1808&theme=great-gatsby)](https://git.io/streak-stats)
 
