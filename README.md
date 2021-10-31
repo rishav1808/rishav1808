@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav1808&theme=default)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishav1808&theme=great-gatsby)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishav1808&theme=default)](https://git.io/streak-stats)
 
